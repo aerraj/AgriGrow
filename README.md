@@ -1,2 +1,1 @@
-# AgriGrow
-The front end of a new age greengrocer company website called AgriGrow
+TinDog Starting Files
